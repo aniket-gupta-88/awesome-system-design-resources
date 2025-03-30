@@ -6,7 +6,10 @@ This repository contains free resources to learn System Design concepts and prep
 
 👉 Subscribe to my [AlgoMaster Newsletter](https://bit.ly/amghsd) and get a **FREE System Design Interview Handbook** in your inbox.
 
-## 📌 System Design Key Concepts
+## 📌 System Design Key Concepts 
+- Scalability Performance(Latency vs Throughput) 
+- Reliability "Your system is doing what it's supposed to do even if things go wrong."
+- Data Storage and Retrieval ( PARITIONING SHARDING REPLICATION )
 - [Scalability](https://blog.algomaster.io/p/scalability)
 - [Availability](https://blog.algomaster.io/p/system-design-what-is-availability)
 - [CAP Theorem](https://blog.algomaster.io/p/cap-theorem-explained)
